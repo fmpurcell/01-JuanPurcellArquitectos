@@ -3700,7 +3700,7 @@ input[type=button].btn-block {
   opacity: 0;
 }
 .custom-file-input:focus ~ .custom-file-label {
-  border-color: #fbc2b3;
+  border-color: #606060;
   box-shadow: 0 0 0 0.2rem rgba(244, 98, 58, 0.25);
 }
 .custom-file-input[disabled] ~ .custom-file-label, .custom-file-input:disabled ~ .custom-file-label {
@@ -4709,7 +4709,7 @@ a.badge:hover, a.badge:focus {
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
-  background-color: #ee3e0d;
+  background-color: #606060;
 }
 a.badge-primary:focus, a.badge-primary.focus {
   outline: 0;
@@ -6101,7 +6101,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #ee3e0d !important;
+  background-color: #606060 !important;
 }
 
 .bg-secondary {
