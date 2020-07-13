@@ -69,6 +69,10 @@ body {
   background-color: #fff;
 }
 
+{
+   cursor: url(imagen1.gif), url(cursor.cur), pointer;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
