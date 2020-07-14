@@ -70,7 +70,7 @@ body {
 }
 
 {
-   cursor: url(imagen1.pgn), url(cursor.cur), pointer;
+   cursor: url(imagen1.png), url(cursor.cur), pointer;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
